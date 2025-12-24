@@ -1,7 +1,6 @@
 # reversi-game-engine
 
-A terminal-based implementation of the Reversi board game written in C.  
-Includes full move validation in all 8 directions, piece flipping logic, and an AI move selector using a positional-value heuristic.
+A terminal-based implementation of the Reversi board game written in C. Includes full move validation in all 8 directions, piece flipping logic, and an AI move selector using a positional-value heuristic.
 
 ## Features
 - **Custom board size**: supports any even dimension up to 26×26
